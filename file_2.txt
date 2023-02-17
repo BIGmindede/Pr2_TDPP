@@ -1,1 +1,1 @@
-first change from branch [newBranch]
+Second change in code to second file
